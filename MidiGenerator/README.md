@@ -1,6 +1,8 @@
 All the pre-processing scripts are placed in the jupyter notebooks 'Melody Preprocessing' and 'Polyphonic Preprocessing'. 
 These scripts can be used to convert the midi dataset to the input images for the network. 
 
+The 'saved models' directory contains few pre-trained models. Swap the model in the checkpoint directory with any of these models to run a pre-trained model. 
+
 Command to train the network:
 
 <code>python main.py --is_train True</code>
