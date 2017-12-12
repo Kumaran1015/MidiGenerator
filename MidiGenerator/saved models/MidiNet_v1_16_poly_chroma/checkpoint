@@ -1,0 +1,6 @@
+model_checkpoint_path: "MidiNet.model-30800"
+all_model_checkpoint_paths: "MidiNet.model-30184"
+all_model_checkpoint_paths: "MidiNet.model-30338"
+all_model_checkpoint_paths: "MidiNet.model-30492"
+all_model_checkpoint_paths: "MidiNet.model-30646"
+all_model_checkpoint_paths: "MidiNet.model-30800"
